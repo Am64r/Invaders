@@ -62,7 +62,7 @@ ALIENS_IN_ROW  = 12
 # the image files for the aliens (bottom to top)
 ALIEN_IMAGES   = ('alien1.png','alien2.png','alien3.png')
 # the number of seconds (float <= 1) between alien steps
-ALIEN_SPEED = 1
+ALIEN_SPEED = 0.5
 
 
 ### BOLT CONSTANTS ###
@@ -75,7 +75,7 @@ BOLT_HEIGHT = 16
 BOLT_SPEED  = 5
 # the number of ALIEN STEPS (not frames) between bolts
 BOLT_RATE = 5
-MAX_BOLTS = 1
+MAX_BOLTS = 3
 
 
 ### GAME CONSTANTS ###

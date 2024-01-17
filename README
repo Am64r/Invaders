@@ -1,4 +1,4 @@
 To Start, navigate in terminal to directory in which file is contained
-Run the command "python invadersfinal"
+Run the command "python {filename}"
 
 Game difficulty can be adjusted in consts.py
